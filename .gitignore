@@ -1,0 +1,4 @@
+tiny-imagenet-200*
+.vscode/
+.DS_Store
+__pycache__/
